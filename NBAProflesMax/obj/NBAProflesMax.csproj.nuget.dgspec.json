@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\BankingSystems\\NBAProflesMax\\NBAProflesMax.csproj": {}
+    "C:\\Users\\USER\\Desktop\\SwissProjects\\LebronPage\\NBAProflesMax\\NBAProflesMax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\BankingSystems\\NBAProflesMax\\NBAProflesMax.csproj": {
+    "C:\\Users\\USER\\Desktop\\SwissProjects\\LebronPage\\NBAProflesMax\\NBAProflesMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\BankingSystems\\NBAProflesMax\\NBAProflesMax.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SwissProjects\\LebronPage\\NBAProflesMax\\NBAProflesMax.csproj",
         "projectName": "NBAProflesMax",
-        "projectPath": "C:\\Users\\USER\\Desktop\\BankingSystems\\NBAProflesMax\\NBAProflesMax.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\SwissProjects\\LebronPage\\NBAProflesMax\\NBAProflesMax.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\BankingSystems\\NBAProflesMax\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\SwissProjects\\LebronPage\\NBAProflesMax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
